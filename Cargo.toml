@@ -2,7 +2,17 @@
 name = "bitcask"
 version = "0.1.0"
 edition = "2021"
+authors = ["bangbaoshi"]
+keywords = ["collection", "skiplist", "sorted"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[dependencies]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+documentation = "https://github.com/bangbaoshi/bitcask"
+homepage = "https://github.com/bangbaoshi/bitcask"
+repository = "https://github.com/bangbaoshi/bitcask"
+
+license = "MIT"
+description = "Skip list is a kind of ordered map and can store any value inside. See skip list wikipedia page to learn more about this data structure."
+readme = "README.md"
